@@ -51,16 +51,7 @@
 }
 ```
 
----
 
-### 📊 Mes statistiques GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kym-art&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&theme=transparent" height="165" alt="Statistiques GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kym-art&layout=compact&hide_border=true&theme=transparent" height="165" alt="Langages les plus utilisés" />
-</p>
-
----
 
 ### 📫 Me retrouver
 
